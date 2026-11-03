@@ -1,0 +1,7 @@
+{
+  "id": "my-dog",
+  "displayName": "我的小狗",
+  "description": "一只圆滚滚的白色小狗，待机时会小幅踏步和眨眼，也会等待、工作、睡觉并环顾四周。",
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "spritesheet.webp"
+}
